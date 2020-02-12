@@ -176,3 +176,4 @@ C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManage
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csproj.CopyComplete
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.pdb
+C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csprojResolveAssemblyReference.cache

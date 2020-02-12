@@ -16,7 +16,7 @@ namespace LagBetManagerAPI.AppCode
         {
             var recID = 0;
             var ResponseMsg = new ResponseMessage();
-            log.Info($"Request with ID{transactions.TicketNo} got here");
+            log.Info("Request with ID"+transactions.TicketNo+"got here");
             try
             {
                 //check request already logged
