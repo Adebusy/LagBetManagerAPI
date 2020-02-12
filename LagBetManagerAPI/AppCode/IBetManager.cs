@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using LagBetManagerAPI.Models;
 using System.Threading.Tasks;
 
 namespace LagBetManagerAPI.AppCode
 {
-    interface IBetManager
+    public interface IBetManager
     {
-        
+          ResponseMessage LogBetRequest(Transactions transactions);
     }
 }

@@ -37,5 +37,8 @@ namespace LagBetManagerAPI
         public string Audit { get; set; }
 
         public DateTime? DateLogged { get; set; }
+
+        [StringLength(124)]
+        public string ReferenceNo { get; set; }
     }
 }
