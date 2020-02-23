@@ -5,7 +5,7 @@ namespace LagBetManagerAPI.Models
 {
     public class Transactions
     {
-        
+
         [Required]
         [StringLength(124)]
         public string CompanyName { get; set; }
@@ -42,5 +42,22 @@ namespace LagBetManagerAPI.Models
         public string Audit { get; set; }
 
         public DateTime? DateLogged { get; set; }
+
+        [StringLength(124)]
+        public string ReferenceNo { get; set; }
+    }
+
+    public class ReportRequest
+    {
+        [Required]
+        [StringLength(124)]
+        public string CompanyName { get; set; }
+
+        [Required]
+        public DateTime StartDate { get; set; }
+
+        [Required]
+        public DateTime EndDate { get; set; }
+
     }
 }

@@ -15,7 +15,7 @@ namespace LagBetManagerAPI
 
         public decimal? Amount { get; set; }
 
-        [StringLength(16)]
+        [StringLength(50)]
         public string CompanyID { get; set; }
 
         [StringLength(50)]
@@ -33,12 +33,12 @@ namespace LagBetManagerAPI
 
         public DateTime? TransactionDate { get; set; }
 
-        [StringLength(124)]
+        [StringLength(50)]
         public string Audit { get; set; }
 
         public DateTime? DateLogged { get; set; }
 
-        [StringLength(124)]
+        [StringLength(128)]
         public string ReferenceNo { get; set; }
     }
 }

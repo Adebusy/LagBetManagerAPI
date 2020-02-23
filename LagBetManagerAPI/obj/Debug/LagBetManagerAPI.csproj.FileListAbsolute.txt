@@ -138,6 +138,7 @@ C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManage
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Antlr3.Runtime.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\EntityFramework.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\log4net.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Newtonsoft.Json.dll
@@ -156,6 +157,7 @@ C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManage
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\WebGrease.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\EntityFramework.xml
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\log4net.xml
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Newtonsoft.Json.xml
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\System.Net.Http.Formatting.xml
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\System.Web.Helpers.xml
@@ -169,11 +171,8 @@ C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManage
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\System.Web.WebPages.Razor.xml
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Antlr3.Runtime.pdb
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csprojAssemblyReference.cache
-C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.Migrations.InitialCreate.resources
-C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csproj.GenerateResource.cache
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csproj.CoreCompileInputs.cache
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csproj.CopyComplete
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.dll
 C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.pdb
-C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csprojResolveAssemblyReference.cache
+C:\Users\alaonr\Desktop\AzureLiveApps\Projects\Git\LagBetManagerAPI\LagBetManagerAPI\obj\Debug\LagBetManagerAPI.csprojAssemblyReference.cache
